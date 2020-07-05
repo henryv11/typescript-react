@@ -1,1 +1,1 @@
-Typescript starter template
+Typescript React starter template
